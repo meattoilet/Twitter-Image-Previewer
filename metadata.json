@@ -1,0 +1,5 @@
+{
+  "name": "Tweet Image Previewer",
+  "description": "Preview how your images and hashtags will look on Twitter (X) before posting. Features custom image grid layouts and hashtag highlighting.",
+  "requestFramePermissions": []
+}
